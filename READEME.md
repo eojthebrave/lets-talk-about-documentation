@@ -1,4 +1,4 @@
-## Let's Talk About Documentation
+## Lets Talk About Documentation
 
 https://events.drupal.org/losangeles2015/sessions/lets-talk-about-documentation
 
