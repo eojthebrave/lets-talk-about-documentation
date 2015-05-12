@@ -82,13 +82,12 @@ Notes: Things that are currently working well, identified because any changes sh
 - When does a documentation issue block a core release?
 
 ----------
-<!-- .slide: data-background="#167DF3" -->
-<!-- .slide: data-color="#ffffff" -->
+<!-- .slide: data-background="#1B77AF" -->
 
 # Case Study: WordPress
 
 ========
-<!-- .slide: data-background="#167DF3" -->
+<!-- .slide: data-background="#1B77AF" -->
 
 ## WordPress
 
@@ -98,7 +97,7 @@ Notes: Things that are currently working well, identified because any changes sh
 - They are in the process of replacing Codex with Handbooks
 
 ========
-<!-- .slide: data-background="#167DF3" -->
+<!-- .slide: data-background="#1B77AF" -->
 
 ## Main Take-aways
 
@@ -108,12 +107,12 @@ Notes: Things that are currently working well, identified because any changes sh
 - In some cases employers pay for part-time (half-time) dedicate work of documentation team members
 
 ----------
-<!-- .slide: data-background="#FF0F19" -->
+<!-- .slide: data-background="#D7DCE0" -->
 
 # Case Study: Mozilla Developer Network (MDN)
 
 ========
-<!-- .slide: data-background="#FF0F19" -->
+<!-- .slide: data-background="#D7DCE0" -->
 
 ## Defining Pathways for Contributors and Learners
 
@@ -123,7 +122,7 @@ Notes: Things that are currently working well, identified because any changes sh
 - Style guides, how-tos, contributor roles and activities all clearly documented and organized
 
 ========
-<!-- .slide: data-background="#FF0F19" -->
+<!-- .slide: data-background="#D7DCE0" -->
 
 ## Main Take-aways
 
