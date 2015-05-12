@@ -1,0 +1,38 @@
+/**
+ * @file
+ * Styles.
+ */
+
+.reveal {
+  font-family: "Proxima Nova", sans-serif;
+  color: #484848;
+}
+
+.reveal .slides,
+.reveal .sides h2 {
+  text-align: left !important;
+}
+
+.reveal h1 {
+  font-size: 3em;
+  color: black;
+}
+
+.reveal h2 {
+  border-bottom: 1px solid black;
+  font-size: 1.75em;
+  color: black;
+  line-height: 1.5em;
+}
+
+.reveal .slides a {
+  text-decoration: underline;
+}
+
+.reveal ul {
+  margin-bottom: 1.5em;
+}
+
+.reveal li {
+  margin: .5em 0;
+}
