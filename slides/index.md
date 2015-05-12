@@ -3,6 +3,8 @@
 
 _DrupalCon Los Angeles - 2015_
 
+Note: http://lb.cm/talk-docs
+
 ----------
 
 ## Hello, My Name Is:
@@ -15,7 +17,9 @@ Note: Amber, Greg, and Joe all work for [Lullabot](https://www.lullabot.com). Jo
 
 ----------
 
-Slides: INSERT LINK TO SLIDES HERE.
+## Follow Along
+
+http://lb.cm/talk-docs
 
 ----------
 
