@@ -42,6 +42,7 @@ _Thesis:_ Drupal documentation could be improved by subjecting it to a set of st
 - [api.drupal.org](http://api.drupal.org)
 - [Handbook](https://www.drupal.org/documentation)
 - [Change records](https://www.drupal.org/list-changes)
+- Books, blog posts, videos, etc.
 
 Note: There are currently a few differen "types" of documentation. API, Handbook, Change records.
 
