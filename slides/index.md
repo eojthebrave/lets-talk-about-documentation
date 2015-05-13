@@ -99,15 +99,15 @@ Notes: Things that are currently working well, identified because any changes sh
 <img src="slides/images/wp_plugin_handbook.png" width="825" height="640">
 
 ========
+<img src="slides/images/wp_docs_home.png" width="848" height="640">
+
+========
 ## Main Take-aways
 
 - Core group of volunteers works on guides
 - Meetings, progress, and updates are transparently communicated on their doc team public blog. You can see what is being worked on now, what is complete, and what is planned for the future.
 - More accurate and helpful docs mean higher community satisfaction with project documentation.
 - In some cases employers pay for part-time (half-time) dedicate work of documentation team members
-
-========
-<img src="slides/images/wp_docs_home.png" width="848" height="640">
 
 ----------
 # Case Study:<br/>**Mozilla Developer Network (MDN)**
