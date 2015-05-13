@@ -48,7 +48,7 @@ _Thesis:_ Drupal documentation could be improved by subjecting it to a set of st
 
 Note: There are currently a few different "types" of documentation. API, Handbook, Change records.
 
-========
+----------
 
 ## Current Priorities
 
@@ -58,7 +58,7 @@ Note: There are currently a few different "types" of documentation. API, Handboo
 - Better relationship between documentation pages, and issues that track the work that needs to be done on them.- [#995292](https://www.drupal.org/node/995292)
 - Complete list of [DocsWG Goals](https://www.drupal.org/governance/docwg-goals)
 
-========
+----------
 
 ## Pain Points
 
@@ -70,13 +70,13 @@ Note: There are currently a few different "types" of documentation. API, Handboo
 - Contributing to docs isn't as sexy as contributing code
 - Documentation is thankless
 
-========
+----------
 
 ## The Awesome
 
 Notes: Things that are currently working well, identified because any changes should seek to preserve these things as best as possible.
 
-========
+----------
 
 ## Questions I Wish We Could Answer
 
@@ -84,45 +84,43 @@ Notes: Things that are currently working well, identified because any changes sh
 - When does a documentation issue block a core release?
 
 ----------
-<!-- .slide: data-background="#1B77AF" -->
+<h1>Case Study:<br/><strong>WordPress</strong></h1>
 
-<h1 style="color: white;">Case Study:<br/><strong>WordPress</strong></h1>
-
-========
-<!-- .slide: data-background="#1B77AF" style="color: white;" -->
-<h2 style="color: white; border-color: white;">WordPress</h2>
+----------
+## WordPress
 
 - Replacing Community Wiki with Edited Guides</li>
 - Codex is a behemoth community wiki full of outdated content that anyone can edit or contribute to.</li>
 - Handbooks are guides created by the docs team that goes through a full editorial process and are continuously reviewed and updated
 - They are in the process of replacing Codex with Handbooks
 
-========
-<!-- .slide: data-background="#1B77AF" style="color: white;" -->
+----------
+<img src="slides/images/wp_plugin_handbook.png" width="825" height="640">
 
-<img src="images/wp_plugin_handbook.png">
-
-========
-<!-- .slide: data-background="#1B77AF" -->
-
-<h2 style="color: white; border-color: white;">Main Take-aways</h2>
+----------
+## Main Take-aways
 
 - Core group of volunteers works on guides
 - Meetings, progress, and updates are transparently communicated on their doc team public blog. You can see what is being worked on now, what is complete, and what is planned for the future.
 - More accurate and helpful docs mean higher community satisfaction with project documentation.
 - In some cases employers pay for part-time (half-time) dedicate work of documentation team members
 
-========
-
-<img src="images/wp_docs_home.png">
+----------
+<img src="slides/images/wp_docs_home.png" width="848" height="640">
 
 ----------
-<!-- .slide: data-background="#D7DCE0" -->
-
 # Case Study:<br/>**Mozilla Developer Network (MDN)**
 
-========
-<!-- .slide: data-background="#D7DCE0" -->
+----------
+<img src="slides/images/mdn_home.png">
+
+----------
+<img src="slides/images/mdn_contribute_hero.png">
+
+----------
+<img src="slides/images/mdn_contribute_home.png">
+
+----------
 
 ## Defining Pathways for Contributors and Learners
 
@@ -131,9 +129,7 @@ Notes: Things that are currently working well, identified because any changes sh
 - Various contributor roles and responsibilities including admins, topic drivers, curators, mentors, writers, editors, reviewers
 - Documentation pages are called articles, with processes, standards, and guidelines that you would expect for a published article.
 
-
-========
-<!-- .slide: data-background="#D7DCE0" -->
+----------
 
 ## Main Take-aways
 
@@ -144,13 +140,13 @@ Notes: Things that are currently working well, identified because any changes sh
 
 # Proposals / Ideas / Better Making
 
-========
+----------
 
 Define what AWESOME looks like 5 years from now.
 
 Note: It might be interesting to see what others think. One way to do this would be a writing excercise in which members of the community are asked to write in 2-4 paragraphs what their vision of the future looks like. Might also be intresting to do this ourselves.
 
-========
+----------
 
 ## Curated Drupal Documentation
 
@@ -159,7 +155,7 @@ Note: It might be interesting to see what others think. One way to do this would
 
 Note: The idea of curated documentation has been [discussed previously](https://www.drupal.org/node/1291058). There was a [plan for how to make a system for curated documentation](https://www.drupal.org/node/1095012). There was also a [plan to put the Developer docs into the Drupal Core repository](https://www.drupal.org/node/2106873) using Asciidoc. The [Configurable Help Module](https://www.drupal.org/sandbox/jhodgdon/2369943), which is currently a Drupal 8 sandbox, allows a module to define one or more help topics as configuration. These topics are imported when the module is enabled, and then can be managed, edited, and viewed within a Drupal site. Topics marked as “top-level” are listed on the admin/help page, and topics can be cross-referenced.
 
-========
+----------
 
 ## Challenges
 

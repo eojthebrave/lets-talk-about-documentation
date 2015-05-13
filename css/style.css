@@ -42,3 +42,17 @@
   border: none;
   box-shadow: none;
 }
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  -webkit-hyphens: none;
+     -moz-hyphens: none;
+          hyphens: none;
+
+  word-wrap: normal;
+  line-height: 1;
+}
