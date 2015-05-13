@@ -44,7 +44,7 @@ _Thesis:_ Drupal documentation could be improved by subjecting it to a set of st
 - [Change records](https://www.drupal.org/list-changes)
 - Books, blog posts, videos, etc.
 
-Note: There are currently a few differen "types" of documentation. API, Handbook, Change records.
+Note: There are currently a few different "types" of documentation. API, Handbook, Change records.
 
 ========
 
@@ -117,9 +117,10 @@ Notes: Things that are currently working well, identified because any changes sh
 ## Defining Pathways for Contributors and Learners
 
 - Learning Pathways for newbies, intermediate and advanced learners
-- Extensive documentation for docs contributors
-- Various roles and responsibilities available for content experts
-- Style guides, how-tos, contributor roles and activities all clearly documented and organized
+- Extensive documentation and guides for documentation contributors 
+- Various contributor roles and responsibilities including admins, topic drivers, curators, mentors, writers, editors, reviewers
+- Documentation pages are called articles, with processes, standards, and guidelines that you would expect for a published article.
+
 
 ========
 <!-- .slide: data-background="#D7DCE0" -->
@@ -127,7 +128,7 @@ Notes: Things that are currently working well, identified because any changes sh
 ## Main Take-aways
 
 - Extensive documentation for documentation contributors has resulted in consistently high quality documentation. MDN is one of the highest reputed and trusted sources of documentation for web developers on the Internet.
-- Creating roles and responsibilities for contribution mentors and content experts means that contributors receive support and guidance and docs get the attention they need.
+- Documentation is treated as a first-class product. If people can't learn to use their tech, they won't use it, develop with it, or contribute code to improve or fix it.
 
 ----------
 
