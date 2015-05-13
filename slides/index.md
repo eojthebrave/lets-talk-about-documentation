@@ -9,6 +9,8 @@ Note: http://lb.cm/talk-docs
 
 ## Hello, My Name Is:
 
+<img src="../images/lullabot-logo.png" alt="Lullabot" title="Lullabot" />
+
 - Amber ([**@amberhimesmatz**](https://twitter.com/amberhimesmatz)) Himes Matz
 - Greg ([**@heyrocker**](https://twitter.com/heyrocker)) Dunlap
 - Joe ([**@eojthebrave**](https://twitter.com/eojthebrave)) Shindelar
@@ -84,22 +86,21 @@ Notes: Things that are currently working well, identified because any changes sh
 ----------
 <!-- .slide: data-background="#1B77AF" -->
 
-# Case Study: WordPress
+<h1 style="color: white;">Case Study:<br/><strong>WordPress</strong></h1>
 
 ========
-<!-- .slide: data-background="#1B77AF" -->
+<!-- .slide: data-background="#1B77AF" style="color: white;" -->
+<h2 style="color: white; border-color: white;">WordPress</h2>
 
-## WordPress
-
-- Replacing Community Wiki with Edited Guides
-- Codex is a behemoth community wiki full of outdated content that anyone can edit or contribute to.
+- Replacing Community Wiki with Edited Guides</li>
+- Codex is a behemoth community wiki full of outdated content that anyone can edit or contribute to.</li>
 - Handbooks are guides created by the docs team that goes through a full editorial process and are continuously reviewed and updated
 - They are in the process of replacing Codex with Handbooks
 
 ========
-<!-- .slide: data-background="#1B77AF" -->
+<!-- .slide: data-background="#1B77AF" style="color: white;" -->
 
-## Main Take-aways
+<h2 style="color: white; border-color: white;">Main Take-aways</h2>
 
 - Core group of volunteers works on guides
 - Meetings, progress, and updates are transparently communicated on their doc team public blog. You can see what is being worked on now, what is complete, and what is planned for the future.
@@ -109,7 +110,7 @@ Notes: Things that are currently working well, identified because any changes sh
 ----------
 <!-- .slide: data-background="#D7DCE0" -->
 
-# Case Study: Mozilla Developer Network (MDN)
+# Case Study:<br/>**Mozilla Developer Network (MDN)**
 
 ========
 <!-- .slide: data-background="#D7DCE0" -->

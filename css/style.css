@@ -36,3 +36,9 @@
 .reveal li {
   margin: .5em 0;
 }
+
+.reveal section img {
+  background: none;
+  border: none;
+  box-shadow: none;
+}
