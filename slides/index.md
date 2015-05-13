@@ -100,12 +100,21 @@ Notes: Things that are currently working well, identified because any changes sh
 ========
 <!-- .slide: data-background="#1B77AF" style="color: white;" -->
 
+<img src="images/wp_plugin_handbook.png">
+
+========
+<!-- .slide: data-background="#1B77AF" -->
+
 <h2 style="color: white; border-color: white;">Main Take-aways</h2>
 
 - Core group of volunteers works on guides
 - Meetings, progress, and updates are transparently communicated on their doc team public blog. You can see what is being worked on now, what is complete, and what is planned for the future.
 - More accurate and helpful docs mean higher community satisfaction with project documentation.
 - In some cases employers pay for part-time (half-time) dedicate work of documentation team members
+
+========
+
+<img src="images/wp_docs_home.png">
 
 ----------
 <!-- .slide: data-background="#D7DCE0" -->
