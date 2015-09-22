@@ -50,6 +50,18 @@ Note: There are currently a few different "types" of documentation. API, Handboo
 
 ----------
 
+## Pain Points
+
+- Lack of curation, review, and oversight
+- Organization and hierarchy when anyone can create a new page anywhere, it's chaos.
+- Discoverability - people actually memorize URLs on d.o. to find what they are looking for!
+- Versioning
+- Translation
+- Contributing to docs isn't as sexy as contributing code
+- Documentation is thankless
+
+----------
+
 ## Current Priorities
 
 - D8 handbook documentation - [#d8docs](https://www.drupal.org/project/issues/search?status[]=Open&issue_tags=d8docs)
@@ -60,21 +72,16 @@ Note: There are currently a few different "types" of documentation. API, Handboo
 
 ----------
 
-## Pain Points
-
-- Curation, review, and oversight
-- Organization and hierarchy when anyone can create a new page anywhere, it's chaos.
-- Discoverability - people actually memorize URLs on d.o. to find what they are looking for!
-- Versioning
-- Translation
-- Contributing to docs isn't as sexy as contributing code
-- Documentation is thankless
-
-----------
-
 ## The Awesome
 
-Notes: Things that are currently working well, identified because any changes should seek to preserve these things as best as possible.
+- api.drupal.org
+- Change records
+- Drive by editing
+- Getting better at recognizing contributions
+
+Any changes we make should seek to preserve our existing strengths.
+
+Note: Things that are currently working well, identified because any changes should seek to preserve these things as best as possible.
 
 ----------
 
@@ -107,7 +114,7 @@ Notes: Things that are currently working well, identified because any changes sh
 - Core group of volunteers works on guides
 - Meetings, progress, and updates are transparently communicated on their doc team public blog. You can see what is being worked on now, what is complete, and what is planned for the future.
 - More accurate and helpful docs mean higher community satisfaction with project documentation.
-- In some cases employers pay for part-time (half-time) dedicate work of documentation team members
+- In some cases employers pay for part-time (half-time) dedicated work of documentation team members
 
 ----------
 # Case Study:<br/>**Mozilla Developer Network (MDN)**
@@ -139,9 +146,7 @@ Notes: Things that are currently working well, identified because any changes sh
 
 ----------
 
-# Proposals / Ideas / Better Making
-
-----------
+## Where To Go From Here?
 
 Define what AWESOME looks like 5 years from now.
 
