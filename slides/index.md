@@ -113,6 +113,7 @@ Note: Changes to d.o. and docs tools are generally made with Skilled > Expert in
 - Create groups/sections of documentation
 - Sections can have one or more maintainers
 - Relate documentation to projects
+- Use comments to talk about changes
 
 ----------
 
@@ -153,12 +154,6 @@ https://www.drupal.org/project/user_guide
 
 ----------
 
-## Thanks!
-
-jodgdon, batigolix, michaellenahan, Sree, bemery987, lesmana, eojthebrave, HaloFX, surendramohan, ajayvi, eelkeblok, generalludd, gortonstudios, ifrik, jfmacdonald, karlkedrovsky
-
-----------
-
 ## So where are we now?
 
 - Making progress on an initial writing phase
@@ -179,6 +174,18 @@ jodgdon, batigolix, michaellenahan, Sree, bemery987, lesmana, eojthebrave, HaloF
 ----------
 
 <!-- .slide: data-background="../images/user-guide-screenshot.jpg" -->
+
+----------
+
+## Thanks!
+
+jodgdon, batigolix, michaellenahan, Sree, bemery987, lesmana, eojthebrave, HaloFX, surendramohan, ajayvi, eelkeblok, generalludd, gortonstudios, ifrik, jfmacdonald, karlkedrovsky
+
+----------
+
+## Attributions
+
+<img src="../images/user-guide-attributions.jpg" alt="Example of user guide attributions" title="Example of user guide attributions" />
 
 ----------
 
