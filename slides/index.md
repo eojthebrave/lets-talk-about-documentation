@@ -1,9 +1,8 @@
+# Let's **Keep** <br/>Talking About Documentation
 
-# Let's Talk About Documentation
+_DrupalCon Barcelona - 2015_
 
-_DrupalCon Los Angeles - 2015_
-
-Note: http://lb.cm/talk-docs
+Note: http://lb.cm/keep-talking-docs
 
 ----------
 
@@ -11,8 +10,6 @@ Note: http://lb.cm/talk-docs
 
 <img src="../images/lullabot-logo.png" alt="Lullabot" title="Lullabot" />
 
-- Amber ([**@amberhimesmatz**](https://twitter.com/amberhimesmatz)) Himes Matz
-- Greg ([**@heyrocker**](https://twitter.com/heyrocker)) Dunlap
 - Joe ([**@eojthebrave**](https://twitter.com/eojthebrave)) Shindelar
 
 Note: Amber, Greg, and Joe all work for [Lullabot](https://www.lullabot.com). Joe is a member of the Drupal Documentation Working Group, while many of the things talked about in this presentation are also discussed by the DocsWG the opinions expressed here are Joe's opinions and not necessarily those of the DocsWG.
@@ -21,21 +18,15 @@ Note: Amber, Greg, and Joe all work for [Lullabot](https://www.lullabot.com). Jo
 
 ## Follow Along
 
-http://lb.cm/talk-docs
+http://lb.cm/keep-talking-docs
 
 ----------
 
 ## What Are We Talking About?
 
 - The current state of documentation
-- How other projects do documentation
-- What we can learn from them
-
-----------
-
-## The 5 minute version
-
-_Thesis:_ Drupal documentation could be improved by subjecting it to a set of standards, guidelines, and oversight in a similar way to how Drupal core development is governed.
+- Changes to Drupal.org that help support documentation
+- The Drupal 8 user guide
 
 ----------
 
@@ -44,31 +35,10 @@ _Thesis:_ Drupal documentation could be improved by subjecting it to a set of st
 - [api.drupal.org](http://api.drupal.org)
 - [Handbook](https://www.drupal.org/documentation)
 - [Change records](https://www.drupal.org/list-changes)
+- [Drupal 8 User Guide](https://www.drupal.org/project/user_guide)
 - Books, blog posts, videos, etc.
 
 Note: There are currently a few different "types" of documentation. API, Handbook, Change records.
-
-----------
-
-## Pain Points
-
-- Lack of curation, review, and oversight
-- Organization and hierarchy when anyone can create a new page anywhere, it's chaos.
-- Discoverability - people actually memorize URLs on d.o. to find what they are looking for!
-- Versioning
-- Translation
-- Contributing to docs isn't as sexy as contributing code
-- Documentation is thankless
-
-----------
-
-## Current Priorities
-
-- D8 handbook documentation - [#d8docs](https://www.drupal.org/project/issues/search?status[]=Open&issue_tags=d8docs)
-- Follow/Subscribe to pages and be notified when they change - [#2218551](https://www.drupal.org/node/2218551)
-- Introduce concept of maintainers for documentation pages/sections - [#2332855](https://www.drupal.org/node/2332855)
-- Better relationship between documentation pages, and issues that track the work that needs to be done on them.- [#995292](https://www.drupal.org/node/995292)
-- Complete list of [DocsWG Goals](https://www.drupal.org/governance/docwg-goals)
 
 ----------
 
@@ -85,72 +55,82 @@ Note: Things that are currently working well, identified because any changes sho
 
 ----------
 
-## Questions I Wish We Could Answer
+<!-- .slide: data-background="../images/docs-contributors-cloud.jpg" data-background-size="80%" -->
 
-- Who is responsible for keeping this page up-to-date?
-- When does a documentation issue block a core release?
-
-----------
-<h1>Case Study:<br/><strong>WordPress</strong></h1>
-
-========
-
-## WordPress
-
-- Replacing Community Wiki with Edited Guides</li>
-- Codex is a behemoth community wiki full of outdated content that anyone can edit or contribute to.</li>
-- Handbooks are guides created by the docs team that goes through a full editorial process and are continuously reviewed and updated
-- They are in the process of replacing Codex with Handbooks
-
-========
-<img src="slides/images/wp_plugin_handbook.png" width="825" height="640">
-
-========
-<img src="slides/images/wp_docs_home.png" width="848" height="640">
-
-========
-## Main Take-aways
-
-- Core group of volunteers works on guides
-- Meetings, progress, and updates are transparently communicated on their doc team public blog. You can see what is being worked on now, what is complete, and what is planned for the future.
-- More accurate and helpful docs mean higher community satisfaction with project documentation.
-- In some cases employers pay for part-time (half-time) dedicated work of documentation team members
-
-----------
-# Case Study:<br/>**Mozilla Developer Network (MDN)**
-
-========
-<img src="slides/images/mdn_home.png">
-
-========
-<img src="slides/images/mdn_contribute_hero.png">
-
-========
-<img src="slides/images/mdn_contribute_home.png">
-
-========
-
-## Defining Pathways for Contributors and Learners
-
-- Learning Pathways for newbies, intermediate and advanced learners
-- Extensive documentation and guides for documentation contributors 
-- Various contributor roles and responsibilities including admins, topic drivers, curators, mentors, writers, editors, reviewers
-- Documentation pages are called articles, with processes, standards, and guidelines that you would expect for a published article.
-
-========
-
-## Main Take-aways
-
-- Extensive documentation for documentation contributors has resulted in consistently high quality documentation. MDN is one of the highest reputed and trusted sources of documentation for web developers on the Internet.
-- Documentation is treated as a first-class product. If people can't learn to use their tech, they won't use it, develop with it, or contribute code to improve or fix it.
+Note: There are a lot of people contributing, which is exciting.
 
 ----------
 
-## Where To Go From Here?
+## Thanks!
 
-Define what AWESOME looks like 5 years from now.
+**Contributions since 2015-01-01**
 
-Note: It might be interesting to see what others think. One way to do this would be a writing excercise in which members of the community are asked to write in 2-4 paragraphs what their vision of the future looks like. Might also be intresting to do this ourselves.
+- 6177 total edits
+- 1147 contributors
+- 629 (54%) with 2 or more edits
+- 47 (20%) with 20 or more edits
+
+----------
+
+## It could be better
+
+<img src="../images/docs-contributors-graph.jpg" alt="Graph" title="Graph" />
+
+----------
+
+Documentation is designed to help move Drupal.org users from [one skill level to the next](https://www.drupal.org/personas), by enabling them to successfully build, maintain, and improve Drupal sites and Drupal itself.
+
+<img src="../images/personas.png" width="60%" alt="Graph" title="Graph" />
+
+Note: Changes to d.o. and docs tools are generally made with Skilled > Expert in mind.
+
+----------
+
+## Pain Points
+
+- Lack of curation, review, and oversight
+- Organization and hierarchy when anyone can create a new page anywhere, it's chaos.
+- Discoverability - people actually memorize URLs on d.o. to find what they are looking for!
+- Versioning
+- Translation
+- Contributing to docs isn't as sexy as contributing code
+
+----------
+
+## Current Priorities
+
+- D8 user facing documentation - [#d8docs](https://www.drupal.org/project/issues/search?status[]=Open&issue_tags=d8docs)
+- Follow/Subscribe to pages and be notified when they change - [#2218551](https://www.drupal.org/node/2218551)
+- Introduce concept of maintainers for documentation pages/sections - [#2332855](https://www.drupal.org/node/2332855)
+- Better relationship between documentation pages, and issues that track the work that needs to be done on them.- [#995292](https://www.drupal.org/node/995292)
+- [Drupal 8 User Guide](https://www.drupal.org/project/user_guide)
+- Complete list of [DocsWG Goals](https://www.drupal.org/governance/docwg-goals)
+
+----------
+
+## Updating Drupal.org
+
+- Create groups/sections of documentation
+- Sections can have one or more maintainers
+- Relate documentation to projects
+
+----------
+
+## More on Drupal.org Updates
+
+- Session: [Content Strategy for Drupal.org](https://events.drupal.org/barcelona2015/sessions/content-strategy-drupalorg)
+- [[META] Structure Drupal.org content around areas of user activity](https://www.drupal.org/node/2481515)
+- [Content model for Drupal.org](https://www.drupal.org/node/2481519)
+
+----------
+
+## Lets Talk Documentation
+
+[DrupalCon LA Session](https://events.drupal.org/losangeles2015/sessions/lets-talk-about-documentation)
+
+- WordPress and MDN case studies
+- Much discussion
+- Drupal 8 User Guide
 
 ----------
 
@@ -163,20 +143,66 @@ Note: The idea of curated documentation has been [discussed previously](https://
 
 ----------
 
-## Challenges
+## Drupal 8 User Guide
 
-- Change is hard
-- Defining scope
-- Time / Money / Resourcing
-- Ongoing maintenance
+https://www.drupal.org/project/user_guide
+
+- Written in AsciiDoc
+- Version control with Git
+- Reviews, and updates in the issue queue
 
 ----------
 
-## Discuss
+## Thanks!
 
-- We don't have the answers, but we do recognize that there's a need for change
-- Iteration vs. Fresh start
+jodgdon, batigolix, michaellenahan, Sree, bemery987, lesmana, eojthebrave, HaloFX, surendramohan, ajayvi, eelkeblok, generalludd, gortonstudios, ifrik, jfmacdonald, karlkedrovsky
+
+----------
+
+## So where are we now?
+
+- Making progress on an initial writing phase
+
+----------
+
+<!-- .slide: data-background="../images/user-manual-tracking-sheet.jpg" -->
+
+----------
+
+## So where are we now?
+
+- Making progress on an initial writing phase
+- AsciiDoc, and HTML compilation
+- Guidelines, and templates, are solid
+- About 40% of the initial pass is claimed
+
+----------
+
+<!-- .slide: data-background="../images/user-guide-screenshot.jpg" -->
+
+----------
+
+## Finishing the guide
+
+- Anyone can help
+- Sprints, user groups, etc.
+- Getting the content on Drupal.org
+
+----------
+
+## Sprints - Friday
+
+- General documentation
+- User Guide
+- Content Audit
 
 ----------
 
 # The End!
+
+Joe **[@eojthebrave](https://twitter.com/eojthebrave)** Shindelar
+<br/>
+<br/>
+<br/>
+<br/>
+Feedback: https://events.drupal.org/barcelona2015/sessions/let's-keep-talking-about-documentation
