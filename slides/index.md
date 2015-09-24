@@ -2,6 +2,8 @@
 
 _DrupalCon Barcelona - 2015_
 
+Joe (@eojthebrave) Shindelar
+
 Note: http://lb.cm/keep-talking-docs
 
 ----------
@@ -12,7 +14,7 @@ Note: http://lb.cm/keep-talking-docs
 
 - Joe ([**@eojthebrave**](https://twitter.com/eojthebrave)) Shindelar
 
-Note: Amber, Greg, and Joe all work for [Lullabot](https://www.lullabot.com). Joe is a member of the Drupal Documentation Working Group, while many of the things talked about in this presentation are also discussed by the DocsWG the opinions expressed here are Joe's opinions and not necessarily those of the DocsWG.
+Note: Joe works for [Lullabot](https://www.lullabot.com) as par to the [Drupalize.Me](https://drupalize.me) team. Joe is a member of the Drupal Documentation Working Group, while many of the things talked about in this presentation are also discussed by the DocsWG the opinions expressed here are Joe's opinions and not necessarily those of the DocsWG.
 
 ----------
 
