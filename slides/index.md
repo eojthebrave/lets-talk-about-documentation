@@ -1,4 +1,4 @@
-# Let's **Keep** <br/>Talking About Documentation
+# Let's _Keep_ <br/>Talking About Documentation
 
 _DrupalCon Barcelona - 2015_
 
@@ -8,7 +8,7 @@ Note: http://lb.cm/keep-talking-docs
 
 ## Hello, My Name Is:
 
-<img src="../images/lullabot-logo.png" alt="Lullabot" title="Lullabot" />
+<img src="../images/drupalizeme.png" alt="Drupalize.Me" title="Drupalize.Me" />
 
 - Joe ([**@eojthebrave**](https://twitter.com/eojthebrave)) Shindelar
 
